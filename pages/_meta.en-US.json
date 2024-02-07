@@ -6,10 +6,17 @@
     "title": "About",
     "type": "page"
   },
+
+  "github_link": {
+    "title": "GitHub",
+    "type": "page",
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/",
     "newWindow": true
   }
 }
